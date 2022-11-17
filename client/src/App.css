@@ -1,0 +1,25 @@
+
+.all_columns {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  background-color: black;
+  color: white;
+}
+
+.column {
+  width: 30%;
+  margin-bottom: 10px;
+}
+
+.inner-column{
+  width: 90%;
+  height: 300px;
+  background-color: brown;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.column-content{
+  margin-bottom: 10px;
+}

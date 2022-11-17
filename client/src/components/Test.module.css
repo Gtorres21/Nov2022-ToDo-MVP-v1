@@ -1,0 +1,24 @@
+    .main {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        background-color: black;
+        color: white;
+        }
+
+    .column {
+        width: 30%;
+        margin-bottom: 10px;
+    }
+    
+    .innerCol{
+        width: 90%;
+        height: 300px;
+        background-color: brown;
+        margin-bottom: 10px;
+        padding: 10px;
+    }
+    
+    .content{
+        margin-bottom: 10px;
+    }
